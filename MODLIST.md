@@ -225,6 +225,7 @@
 * [WMITAF](https://www.curseforge.com/minecraft/mc-mods/wmitaf) (wmitaf-fabric-mc1.18.1-2.2.0.jar) by [ShaksterNano](https://www.curseforge.com/members/shaksternano)
 * [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) (wthit-fabric-4.9.1.jar) by [badasintended](https://www.curseforge.com/members/badasintended)
 * [XP Obelisk](https://www.curseforge.com/minecraft/mc-mods/xp-obelisk) (xp_obelisk-0.3.8.r_for_1.18.x_Fabric.jar) by [Meridanus](https://www.curseforge.com/members/meridanus)
+* [Your Options Shall Be Respected (YOSBR)](https://www.curseforge.com/minecraft/mc-mods/yosbr) (yosbr-0.1.1.jar) by [shedaniel](https://www.curseforge.com/members/shedaniel)
 * [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric) (YungsApi-1.18.2-Fabric-2.0.7.jar) by [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung)
 * [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric) (YungsBetterDungeons-1.18.2-Fabric-2.1.0.jar) by [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung)
 * [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric) (YungsBetterMineshafts-1.18.2-Fabric-2.1.0.jar) by [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung)
