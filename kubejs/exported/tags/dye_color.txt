@@ -1,0 +1,19 @@
+To refresh this file, delete it and run /reload command again! Last updated: May 2, 2022, 7:08:54 PM
+
+#c:vanilla_dye
+- minecraft:white
+- minecraft:orange
+- minecraft:magenta
+- minecraft:light_blue
+- minecraft:yellow
+- minecraft:lime
+- minecraft:pink
+- minecraft:gray
+- minecraft:light_gray
+- minecraft:cyan
+- minecraft:purple
+- minecraft:blue
+- minecraft:brown
+- minecraft:green
+- minecraft:red
+- minecraft:black

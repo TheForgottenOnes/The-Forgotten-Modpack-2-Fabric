@@ -1,0 +1,8 @@
+{
+  "enableGrayScalingOfEntities": false,
+  "enableDyeingEntities": true,
+  "enableDyeingPlayers": true,
+  "enableDyeingBlocks": true,
+  "addCustomJsonColors": true,
+  "enableTransparencyFixCauldrons": true
+}

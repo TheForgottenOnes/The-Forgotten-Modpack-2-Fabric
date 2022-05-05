@@ -1,0 +1,109 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 26, 2022, 4:25:43 AM
+
+#spectrum:midnight_solution_converted
+- #spectrum:liquid_crystal
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#spectrum:midnight_solution
+- spectrum:midnight_solution
+- spectrum:flowing_midnight_solution
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- hyperlighting:white_colored_water_still
+- hyperlighting:white_colored_water_flowing
+- hyperlighting:orange_colored_water_still
+- hyperlighting:orange_colored_water_flowing
+- hyperlighting:magenta_colored_water_still
+- hyperlighting:magenta_colored_water_flowing
+- hyperlighting:light_blue_colored_water_still
+- hyperlighting:light_blue_colored_water_flowing
+- hyperlighting:yellow_colored_water_still
+- hyperlighting:yellow_colored_water_flowing
+- hyperlighting:lime_colored_water_still
+- hyperlighting:lime_colored_water_flowing
+- hyperlighting:pink_colored_water_still
+- hyperlighting:pink_colored_water_flowing
+- hyperlighting:gray_colored_water_still
+- hyperlighting:gray_colored_water_flowing
+- hyperlighting:light_gray_colored_water_still
+- hyperlighting:light_gray_colored_water_flowing
+- hyperlighting:cyan_colored_water_still
+- hyperlighting:cyan_colored_water_flowing
+- hyperlighting:purple_colored_water_still
+- hyperlighting:purple_colored_water_flowing
+- hyperlighting:blue_colored_water_still
+- hyperlighting:blue_colored_water_flowing
+- hyperlighting:brown_colored_water_still
+- hyperlighting:brown_colored_water_flowing
+- hyperlighting:green_colored_water_still
+- hyperlighting:green_colored_water_flowing
+- hyperlighting:red_colored_water_still
+- hyperlighting:red_colored_water_flowing
+- hyperlighting:black_colored_water_still
+- hyperlighting:black_colored_water_flowing
+- hyperlighting:white_colored_glowing_water_still
+- hyperlighting:white_colored_glowing_water_flowing
+- hyperlighting:orange_colored_glowing_water_still
+- hyperlighting:orange_colored_glowing_water_flowing
+- hyperlighting:magenta_colored_glowing_water_still
+- hyperlighting:magenta_colored_glowing_water_flowing
+- hyperlighting:light_blue_colored_glowing_water_still
+- hyperlighting:light_blue_colored_glowing_water_flowing
+- hyperlighting:yellow_colored_glowing_water_still
+- hyperlighting:yellow_colored_glowing_water_flowing
+- hyperlighting:lime_colored_glowing_water_still
+- hyperlighting:lime_colored_glowing_water_flowing
+- hyperlighting:pink_colored_glowing_water_still
+- hyperlighting:pink_colored_glowing_water_flowing
+- hyperlighting:gray_colored_glowing_water_still
+- hyperlighting:gray_colored_glowing_water_flowing
+- hyperlighting:light_gray_colored_glowing_water_still
+- hyperlighting:light_gray_colored_glowing_water_flowing
+- hyperlighting:cyan_colored_glowing_water_still
+- hyperlighting:cyan_colored_glowing_water_flowing
+- hyperlighting:purple_colored_glowing_water_still
+- hyperlighting:purple_colored_glowing_water_flowing
+- hyperlighting:blue_colored_glowing_water_still
+- hyperlighting:blue_colored_glowing_water_flowing
+- hyperlighting:brown_colored_glowing_water_still
+- hyperlighting:brown_colored_glowing_water_flowing
+- hyperlighting:green_colored_glowing_water_still
+- hyperlighting:green_colored_glowing_water_flowing
+- hyperlighting:red_colored_glowing_water_still
+- hyperlighting:red_colored_glowing_water_flowing
+- hyperlighting:black_colored_glowing_water_still
+- hyperlighting:black_colored_glowing_water_flowing
+- sandwichable:pickle_brine
+- sandwichable:pickle_brine_flowing
+- xps:xp_fluid
+- xps:flowing_xp
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#spectrum:swimmable_fluid
+- #spectrum:liquid_crystal
+- #spectrum:mud
+- #spectrum:midnight_solution
+
+#spectrum:liquid_crystal
+- spectrum:liquid_crystal
+- spectrum:flowing_liquid_crystal
+
+#ae2:blacklisted/annihilation_plane
+
+#spectrum:mud
+- spectrum:mud
+- spectrum:flowing_mud
+
+#c:water
+- #minecraft:water?
+
+#c:lava
+- #minecraft:lava?

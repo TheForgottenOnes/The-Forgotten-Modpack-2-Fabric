@@ -1,0 +1,93 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "gamingdonny",
+      "uniqueId": "5c1a858e-f35b-4150-b899-684c96caa94d"
+    },
+    "time": 1651252104116,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Cc3hU5fMSF"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gamingdonny",
+      "uniqueId": "5c1a858e-f35b-4150-b899-684c96caa94d"
+    },
+    "time": 1651160202831,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Hn013Wxf5G"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gamingdonny",
+      "uniqueId": "5c1a858e-f35b-4150-b899-684c96caa94d"
+    },
+    "time": 1651152276325,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/StpI4ZYCY6"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gamingdonny",
+      "uniqueId": "5c1a858e-f35b-4150-b899-684c96caa94d"
+    },
+    "time": 1650993419030,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/WuzRfK4fNV"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gamingdonny",
+      "uniqueId": "5c1a858e-f35b-4150-b899-684c96caa94d"
+    },
+    "time": 1650993298230,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/g2ugSMVHUz"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gamingdonny",
+      "uniqueId": "5c1a858e-f35b-4150-b899-684c96caa94d"
+    },
+    "time": 1650874887971,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/qrTuVjj5oP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "gamingdonny",
+      "uniqueId": "5c1a858e-f35b-4150-b899-684c96caa94d"
+    },
+    "time": 1650872275877,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/oakiTtFzIh"
+    }
+  }
+]
