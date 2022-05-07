@@ -1,3 +1,0 @@
-#Thu May 05 13:38:08 EDT 2022
-COMPATIBILITY_MODE=true
-AO=false

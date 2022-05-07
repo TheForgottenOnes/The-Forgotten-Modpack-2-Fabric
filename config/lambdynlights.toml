@@ -105,6 +105,8 @@
 				toad = true
 				lightning_bug_alternate = true
 				tumbleweed = true
+				owl = true
+				adjudicator = true
 
 			[light_sources.settings.entities.mobz]
 				knight4 = true
@@ -277,6 +279,7 @@
 				ostrich = true
 				camel = true
 				bear = true
+				capybara = true
 
 			[light_sources.settings.entities.creeperoverhaul]
 				swamp_creeper = true

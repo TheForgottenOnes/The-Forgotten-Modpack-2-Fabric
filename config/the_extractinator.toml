@@ -7,6 +7,7 @@ extremelyRareItemChance = 2.0
 inputCooldown = 8
 outputLootMultiplier = 1.0
 enableReiPercent = false
+maximumUsages = 0
 extractinatorRecipe = "MODERN_INDUSTRIALIZATION"
 [worldConfig]
 generateSiltOre_v1 = true

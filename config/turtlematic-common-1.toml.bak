@@ -143,9 +143,9 @@
 	#Range: 0.0 ~ 1.0
 	tier4AutomataCoreCooldownReduceFactor = 0.5
 	#Range: 1 ~ 64
-	creativeAutomataCoreInteractionRadius = 64
+	creativeAutomataCoreInteractionRadius = 2147483647
 	#Range: 1 ~ 32
-	creativeAutomataCoreMaxFuelConsumptionRate = 32
+	creativeAutomataCoreMaxFuelConsumptionRate = 2147483647
 	#Range: 0.0 ~ 1.0
 	creativeAutomataCoreCooldownReduceFactor = 0.0
 
